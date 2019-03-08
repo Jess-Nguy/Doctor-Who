@@ -1,0 +1,384 @@
+﻿DOCTOR|ORDINAL|ACTOR                |SERIES|AGE|DEBUT|
+EPISODE|STORY|SEASON|YEAR|TITLE
+COMPANION|NAME                        |ACTOR             |DOCTOR|DEBUT|
+E      |137  |22    |1985|Attack of the Cybermen
+C        |Tegan Jovanka               |Janet Fielding    |4     |115  |
+E      |069  |10    |1973|The Green Death
+E      |259  |9     |2015|Sleep No More
+C        |Adelaide Brooke             |Lindsay Duncan    |10    |201  |
+E      |122  |19    |1982|Time-Flight
+C        |River Song                  |Alex Kingston     |11    |214a |
+C        |Ace                         |Sophie Aldred     |7     |147  |
+D     |      9|Christopher Eccleston|     1| 41|157|
+E      |143a |23    |1986|The Mysterious Planet
+E      |086  |14    |1976|The Masque of Mandragora
+E      |150  |25    |1988|Silver Nemesis
+E      |070  |11    |1973|The Time Warrior
+E      |143d |23    |1986|The Ultimate Foe
+C        |Jackson Lake                |David Morrissey   |10    |199  |
+E      |037  |5     |1967|The Tomb of the Cybermen
+E      |035  |4     |1967|The Faceless Ones
+E      |274  |10    |2017|The Eaters of Light
+E      |030  |4     |1966|The Power of the Daleks
+C        |Grace Holloway              |Daphne Ashbrook   |8     |156  |
+E      |270  |10    |2017|Extremis
+E      |055  |8     |1971|Terror of the Autons
+E      |101  |16    |1978|The Androids of Tara
+E      |113  |18    |1981|Warriors' Gate
+C        |Ian Chesterton              |William Russell   |1     |001  |
+E      |041  |5     |1968|The Web of Fear
+C        |Adric                       |Matthew Waterhouse|4     |111  |
+E      |170  |2     |2006|School Reunion
+E      |084  |13    |1976|The Brain of Morbius
+E      |010  |2     |1964|The Dalek Invasion of Earth
+E      |072  |11    |1974|Death to the Daleks
+E      |079  |12    |1975|Revenge of the Cybermen
+E      |016  |2     |1965|The Chase
+E      |026  |3     |1966|The Savages
+E      |028  |4     |1966|The Smugglers
+E      |046  |6     |1968|The Invasion
+E      |040  |5     |1967|The Enemy of the World
+E      |033  |4     |1967|The Moonbase
+E      |014  |2     |1965|The Crusade
+E      |098  |16    |1978|The Ribos Operation
+C        |Sara Kingdom                |Jean March        |1     |021  |
+E      |208  |5     |2010|Amy's Choice
+E      |256  |9     |2015|The Girl Who Died
+C        |Nyssa                       |Sarah Sutton      |4     |114  |
+E      |039  |5     |1967|The Ice Warriors
+E      |212b |5     |2010|The Big Bang
+E      |164a |1     |2005|The Empty Child
+E      |081  |13    |1975|Planet of Evil
+E      |158  |1     |2005|The End of the World
+E      |123  |20    |1983|Arc of Infinity
+E      |233  |7     |2013|The Rings of Akhaten
+E      |112  |18    |1980|State of Decay
+E      |194  |4     |2008|The Unicorn and the Wasp
+E      |151  |25    |1988|The Greatest Show in the Galaxy
+C        |Astrid Peth                 |Kylie Minogue     |10    |188  |
+E      |145  |24    |1987|Paradise Towers
+E      |007  |1     |1964|The Sensorites
+E      |077  |12    |1975|The Sontaran Experiment
+C        |Rose Tyler                  |Billie Piper      |10    |167  |
+E      |240  |7     |2013|The Day of the Doctor
+E      |227  |7     |2012|Dinosaurs on a Spaceship
+E      |275a |10    |2017|World Enough and Time
+C        |Lady Christina de Souza     |Michelle Ryan     |10    |200  |
+C        |Tegan Jovanka               |Janet Fielding    |5     |116  |
+E      |021  |3     |1965|The Daleks' Master Plan
+C        |Kamelion                    |Gerald Flood      |5     |128  |
+E      |164b |1     |2005|The Doctor Dances
+E      |067  |10    |1973|Frontier in Space
+E      |169  |2     |2006|Tooth and Claw
+E      |104  |17    |1979|Destiny of the Daleks
+E      |216  |6     |2011|The Doctor's Wife
+E      |142  |22    |1985|Revelation of the Daleks
+E      |149  |25    |1988|The Happiness Patrol
+E      |135  |21    |1984|The Caves of Androzani
+E      |059  |8     |1971|The D�mons
+C        |Katarina                    |Adrienne Hill     |1     |020  |
+E      |214b |6     |2011|Day of the Moon
+E      |015  |2     |1965|The Space Museum
+E      |018  |3     |1965|Galaxy 4
+E      |011  |2     |1965|The Rescue
+E      |017  |2     |1965|The Time Meddler
+E      |143b |23    |1986|Mindwarp
+E      |047  |6     |1968|The Krotons
+E      |226  |7     |2012|Asylum of the Daleks
+E      |269  |10    |2017|Oxygen
+E      |120  |19    |1982|Black Orchid
+E      |052  |7     |1970|Doctor Who and the Silurians
+E      |156  |27    |1996|Doctor Who (The Movie)
+E      |180  |3     |2007|The Shakespeare Code
+E      |201  |4     |2009|The Waters of Mars
+E      |178  |3     |2006|The Runaway Bride
+E      |004  |1     |1964|Marco Polo
+E      |209a |5     |2010|The Hungry Earth
+E      |049  |6     |1969|The Space Pirates
+E      |188  |4     |2007|Voyage of the Damned
+E      |048  |6     |1969|The Seeds of Death
+D     |     12|Peter Capaldi        |     3| 55|242|
+E      |199  |4     |2008|The Next Doctor
+E      |245  |8     |2014|Listen
+D     |     11|Matt Smith           |     3| 27|203|
+E      |065  |10    |1972|The Three Doctors
+E      |106  |17    |1979|The Creature from the Pit
+E      |132  |21    |1984|Frontios
+E      |095  |15    |1977|The Sun Makers
+E      |138  |22    |1985|Vengeance on Varos
+E      |108  |17    |1979|The Horns of Nimon
+E      |140  |22    |1985|The Two Doctors
+D     |      4|Tom Baker            |     7| 40|075|
+E      |159  |1     |2005|The Unquiet Dead
+E      |111  |18    |1980|Full Circle
+E      |230  |7     |2012|The Angels Take Manhattan
+E      |126  |20    |1983|Terminus
+E      |162  |1     |2005|The Long Game
+E      |044  |6     |1968|The Dominators
+E      |068  |10    |1973|Planet of the Daleks
+E      |231  |7     |2012|The Snowmen
+E      |193  |4     |2008|The Doctor's Daughter
+E      |102  |16    |1978|The Power of Kroll
+E      |241  |7     |2013|The Time of the Doctor
+E      |141  |22    |1985|Timelash
+E      |144  |24    |1987|Time and the Rani
+E      |073  |11    |1974|The Monster of Peladon
+E      |235  |7     |2013|Hide
+C        |Vislor Turlough             |Mark Strickson    |5     |125  |
+E      |192b |4     |2008|The Poison Sky
+E      |182b |3     |2007|Evolution of the Daleks
+C        |Rory Williams               |Arthur Darvill    |11    |207  |
+C        |Liz Shaw                    |Caroline John     |3     |051  |
+E      |036  |4     |1967|The Evil of the Daleks
+E      |191  |4     |2008|Planet of the Ood
+E      |023  |3     |1966|The Ark
+E      |183  |3     |2007|The Lazarus Experiment
+E      |088  |14    |1976|The Deadly Assassin
+E      |228  |7     |2012|A Town Called Mercy
+C        |Rose Tyler                  |Billie Piper      |9     |157  |
+E      |173  |2     |2006|The Idiot's Lantern
+E      |254b |9     |2015|The Witch's Familiar
+E      |171  |2     |2006|The Girl in the Fireplace
+C        |Romana I                    |Mary Tamm         |4     |098  |
+E      |172b |2     |2006|The Age of Steel
+E      |187c |3     |2007|Last of the Time Lords
+E      |200  |4     |2009|Planet of the Dead
+E      |020  |3     |1965|The Myth Makers
+E      |243  |8     |2014|Into the Dalek
+E      |250  |8     |2014|Flatline
+E      |071  |11    |1974|Invasion of the Dinosaurs
+E      |136  |21    |1984|The Twin Dilemma
+E      |124  |20    |1983|Snakedance
+E      |103  |16    |1979|The Armageddon Factor
+E      |008  |1     |1964|The Reign of Terror
+E      |172a |2     |2006|Rise of the Cybermen
+E      |147  |24    |1987|Dragonfire
+E      |080  |13    |1975|Terror of the Zygons
+E      |125  |20    |1983|Mawdryn Undead
+E      |207  |5     |2010|The Vampires of Venice
+C        |Ben Jackson                 |Michael Craze     |1     |027  |
+E      |202  |4     |2009|The End of Time
+C        |Peri Brown                  |Nicola Bryant     |5     |135  |
+E      |051  |7     |1970|Spearhead from Space
+E      |093  |15    |1977|The Invisible Enemy
+E      |117  |19    |1982|Four to Doomsday
+C        |Adric                       |Matthew Waterhouse|5     |116  |
+E      |019  |3     |1965|Mission to the Unknown
+C        |Sergeant John Benton        |John Levene       |3     |053  |
+E      |176  |2     |2006|Fear Her
+E      |166b |1     |2005|The Parting of the Ways
+E      |001  |1     |1963|An Unearthly Child
+E      |206a |5     |2010|The Time of Angels
+E      |272  |10    |2017|The Lie of the Land
+E      |129  |20    |1983|The Five Doctors
+D     |      6|Colin Baker          |     3| 40|136|
+E      |115  |18    |1981|Logopolis
+E      |273  |10    |2017|Empress of Mars
+E      |085  |13    |1976|The Seeds of Doom
+E      |155  |26    |1989|Survival
+E      |083  |13    |1975|The Android Invasion
+E      |265  |10    |2017|The Pilot
+E      |133  |21    |1984|Resurrection of the Daleks
+C        |K-9 Mark II                 |John Leeson       |4     |098  |
+E      |195a |4     |2008|Silence in the Library
+C        |Victoria Waterfield         |Deborah Watling   |2     |036  |
+E      |225  |7     |2011|The Doctor, the Widow and the Wardrobe
+E      |229  |7     |2012|The Power of Three
+E      |100  |16    |1978|The Stones of Blood
+C        |Ben Jackson                 |Michael Craze     |2     |030  |
+C        |Bill Potts                  |Pearl Mackie      |12    |265  |
+D     |     10|David Tennant        |     3| 34|167|
+D     |      8|Paul McGann          |     0| 36|156|
+C        |Wilfred Mott                |Bernard Cribbins  |10    |202  |
+E      |078  |12    |1975|Genesis of the Daleks
+E      |219  |6     |2011|Let's Kill Hitler
+E      |212a |5     |2010|The Pandorica Opens
+E      |266  |10    |2017|Smile
+D     |      2|Patrick Troughton    |     3| 46|030|
+E      |276  |10    |2017|Twice Upon a Time
+D     |      3|Jon Pertwee          |     5| 50|051|
+E      |139  |22    |1985|The Mark of the Rani
+C        |Amy Pond                    |Karen Gillan      |11    |203  |
+E      |181  |3     |2007|Gridlock
+E      |087  |14    |1976|The Hand of Fear
+E      |013  |2     |1965|The Web Planet
+E      |174a |2     |2006|The Impossible Planet
+E      |160b |1     |2005|World War Three
+E      |143c |23    |1986|Terror of the Vervoids
+C        |Martha Jones                |Freema Agyeman    |10    |179  |
+E      |092  |15    |1977|Horror of Fang Rock
+E      |127  |20    |1983|Enlightenment
+E      |154  |26    |1989|The Curse of Fenric
+E      |031  |4     |1966|The Highlanders
+E      |253  |9     |2014|Last Christmas
+C        |Clara Oswald                |Jenna Coleman     |12    |242  |
+E      |114  |18    |1981|The Keeper of Traken
+E      |204  |5     |2010|The Beast Below
+E      |062  |9     |1972|The Sea Devils
+E      |190  |4     |2008|The Fires of Pompeii
+E      |121  |19    |1982|Earthshock
+E      |089  |14    |1977|The Face of Evil
+E      |148  |25    |1988|Remembrance of the Daleks
+E      |161  |1     |2005|Dalek
+E      |060  |9     |1972|Day of the Daleks
+E      |054  |7     |1970|Inferno
+E      |166a |1     |2005|Bad Wolf
+E      |066  |10    |1973|Carnival of Monsters
+E      |109  |18    |1980|The Leisure Hive
+E      |022  |3     |1966|The Massacre of St Bartholomew's Eve
+E      |167  |2     |2005|The Christmas Invasion
+E      |252b |8     |2014|Death in Heaven
+E      |174b |2     |2006|The Satan Pit
+E      |268  |10    |2017|Knock Knock
+E      |237  |7     |2013|The Crimson Horror
+E      |261  |9     |2015|Heaven Sent
+E      |027  |3     |1966|The War Machines
+E      |157  |1     |2005|Rose
+C        |Craig Owens                 |James Corden      |11    |223  |
+D     |      1|William Hartnell     |     4| 55|001|
+E      |160a |1     |2005|Aliens of London
+E      |107  |17    |1979|Nightmare of Eden
+E      |206b |5     |2010|Flesh and Stone
+E      |203  |5     |2010|The Eleventh Hour
+E      |058  |8     |1971|Colony in Space
+E      |195b |4     |2008|Forest of the Dead
+E      |189  |4     |2008|Partners in Crime
+C        |Leela                       |Louise Jameson    |4     |089  |
+E      |012  |2     |1965|The Romans
+E      |094  |15    |1977|Image of the Fendahl
+E      |187b |3     |2007|The Sound of Drums
+E      |002  |1     |1963|The Daleks
+C        |K-9 Mark I                  |John Leeson       |4     |093  |
+E      |209b |5     |2010|Cold Blood
+E      |025  |3     |1966|The Gunfighters
+E      |267  |10    |2017|Thin Ice
+C        |Captain Jack Harkness       |John Barrowman    |10    |187a |
+E      |238  |7     |2013|Nightmare in Silver
+C        |Sarah Jane Smith            |Elisabeth Sladen  |4     |075  |
+E      |057  |8     |1971|The Claws of Axos
+E      |254a |9     |2015|The Magician's Apprentice
+C        |Melanie Bush                |Bonnie Langford   |7     |144  |
+E      |042  |5     |1968|Fury from the Deep
+E      |271  |10    |2017|The Pyramid at the End of the World
+E      |097  |15    |1978|The Invasion of Time
+E      |177b |2     |2006|Doomsday
+E      |234  |7     |2013|Cold War
+E      |005  |1     |1964|The Keys of Marinus
+E      |215  |6     |2011|The Curse of the Black Spot
+E      |091  |14    |1977|The Talons of Weng-Chiang
+E      |165  |1     |2005|Boom Town
+C        |Captain Mike Yates          |Richard Franklin  |3     |055  |
+E      |257  |9     |2015|The Woman Who Lived
+C        |Zoe Heriot                  |Wendy Padbury     |2     |043  |
+E      |213  |6     |2010|A Christmas Carol
+C        |Nardole                     |Matt Lucas        |12    |264  |
+E      |252a |8     |2014|Dark Water
+E      |063  |9     |1972|The Mutants
+E      |075  |12    |1974|Robot
+E      |244  |8     |2014|Robot of Sherwood
+E      |217b |6     |2011|The Almost People
+C        |Vicki                       |Maureen O'Brien   |1     |011  |
+E      |043  |5     |1968|The Wheel in Space
+E      |003  |1     |1964|The Edge of Destruction
+E      |246  |8     |2014|Time Heist
+E      |119  |19    |1982|The Visitation
+E      |247  |8     |2014|The Caretaker
+C        |Adam Mitchell               |Bruno Langley     |9     |161  |
+E      |134  |21    |1984|Planet of Fire
+E      |275b |10    |2017|The Doctor Falls
+E      |168  |2     |2006|New Earth
+D     |      5|Peter Davison        |     3| 29|116|
+E      |130  |21    |1984|Warriors of the Deep
+E      |110  |18    |1980|Meglos
+E      |131  |21    |1984|The Awakening
+E      |223  |6     |2011|Closing Time
+E      |197  |4     |2008|Turn Left
+D     |      7|Sylvester McCoy      |     3| 44|144|
+C        |River Song                  |Alex Kingston     |12    |263  |
+E      |175  |2     |2006|Love & Monsters
+E      |218  |6     |2011|A Good Man Goes to War
+E      |050  |6     |1969|The War Games
+E      |214a |6     |2011|The Impossible Astronaut
+E      |076  |12    |1975|The Ark in Space
+C        |Captain Jack Harkness       |John Barrowman    |9     |164a |
+C        |Jo Grant                    |Katy Manning      |3     |055  |
+C        |Donna Noble                 |Catherine Tate    |10    |178  |
+C        |Susan Foreman               |Carole Ann Ford   |1     |001  |
+E      |239  |7     |2013|The Name of the Doctor
+C        |Nyssa                       |Sarah Sutton      |5     |116  |
+E      |090  |14    |1977|The Robots of Death
+E      |179  |3     |2007|Smith and Jones
+C        |Brigadier Lethbridge-Stewart|Nicholas Courtney |5     |125  |
+E      |222  |6     |2011|The God Complex
+E      |009  |2     |1964|Planet of the Giants
+E      |198b |4     |2008|Journey's End
+E      |258a |9     |2015|The Zygon Invasion
+E      |217a |6     |2011|The Rebel Flesh
+E      |210  |5     |2010|Vincent and the Doctor
+E      |211  |5     |2010|The Lodger
+E      |152  |26    |1989|Battlefield
+E      |205  |5     |2010|Victory of the Daleks
+E      |220  |6     |2011|Night Terrors
+E      |146  |24    |1987|Delta and the Bannermen
+E      |186  |3     |2007|Blink
+C        |Melanie Bush                |Bonnie Langford   |6     |143c |
+E      |248  |8     |2014|Kill the Moon
+E      |096  |15    |1978|Underworld
+E      |224  |6     |2011|The Wedding of River Song
+E      |262  |9     |2015|Hell Bent
+C        |Steven Taylor               |Peter Purves      |1     |016  |
+E      |099  |16    |1978|The Pirate Planet
+E      |251  |8     |2014|In the Forest of the Night
+E      |258b |9     |2015|The Zygon Inversion
+E      |187a |3     |2007|Utopia
+E      |105  |17    |1979|City of Death
+C        |Brigadier Lethbridge-Stewart|Nicholas Courtney |3     |051  |
+C        |Sarah Jane Smith            |Elisabeth Sladen  |3     |070  |
+E      |242  |8     |2014|Deep Breath
+E      |024  |3     |1966|The Celestial Toymaker
+E      |221  |6     |2011|The Girl Who Waited
+E      |082  |13    |1975|Pyramids of Mars
+E      |064  |9     |1972|The Time Monster
+E      |232  |7     |2013|The Bells of Saint John
+E      |163  |1     |2005|Father's Day
+E      |116  |19    |1982|Castrovalva
+E      |185a |3     |2007|Human Nature
+E      |182a |3     |2007|Daleks in Manhattan
+E      |236  |7     |2013|Journey to the Centre of the TARDIS
+C        |Clara Oswald                |Jenna Coleman     |11    |231  |
+C        |Barbara Wright              |Jacqueline Hill   |1     |001  |
+E      |196  |4     |2008|Midnight
+C        |Peri Brown                  |Nicola Bryant     |6     |136  |
+C        |Sarah Jane Smith            |Elisabeth Sladen  |10    |198a |
+C        |Jamie McCrimmon             |Frazer Hines      |2     |031  |
+E      |118  |19    |1982|Kinda
+E      |255a |9     |2015|Under the Lake
+E      |260  |9     |2015|Face the Raven
+E      |056  |8     |1971|The Mind of Evil
+E      |038  |5     |1967|The Abominable Snowmen
+E      |184  |3     |2007|42
+C        |Romana II                   |Lalla Ward        |4     |104  |
+E      |255b |9     |2015|Before the Flood
+E      |006  |1     |1964|The Aztecs
+E      |034  |4     |1967|The Macra Terror
+E      |074  |11    |1974|Planet of the Spiders
+E      |032  |4     |1967|The Underwater Menace
+C        |Mickey Smith                |Noel Clarke       |10    |170  |
+E      |128  |20    |1983|The King's Demons
+C        |Polly                       |Anneke Wills      |1     |027  |
+E      |045  |6     |1968|The Mind Robber
+C        |Dodo Chaplet                |Jackie Lane       |1     |022  |
+E      |263  |9     |2015|The Husbands of River Song
+E      |185b |3     |2007|The Family of Blood
+E      |061  |9     |1972|The Curse of Peladon
+C        |Brigadier Lethbridge-Stewart|Nicholas Courtney |2     |041  |
+C        |Polly                       |Anneke Wills      |2     |030  |
+C        |Harry Sullivan              |Ian Marter        |4     |075  |
+E      |264  |10    |2016|The Return of Doctor Mysterio
+E      |153  |26    |1989|Ghost Light
+E      |192a |4     |2008|The Sontaran Stratagem
+E      |177a |2     |2006|Army of Ghosts
+E      |249  |8     |2014|Mummy on the Orient Express
+E      |198a |4     |2008|The Stolen Earth
+E      |029  |4     |1966|The Tenth Planet
+E      |053  |7     |1970|The Ambassadors of Death
